@@ -1,0 +1,35 @@
+---
+canvas: "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A000:22b23a"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u7b2c\u5341\u516b\u5377",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-07-31T06:36:07.964Z",
+            "modified": "2022-07-31T06:36:10.812Z"
+        }
+    ],
+    "target": {
+        "source": "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A000:22b23a",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1363.7469482421875,291.6900634765625,226.03173828125,688.3690185546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/perface1.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf839b71-c193-4cc1-aa65-0bf7490071d3.json",
+    "motivation": "commenting"
+}

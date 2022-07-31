@@ -1,0 +1,52 @@
+---
+canvas: "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A000:00001a"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u91cd\u8ba2\u672c\u8349\u7eb2\u76ee\u5e8f",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-07-31T06:34:18.516Z",
+            "modified": "2022-07-31T06:34:27.530Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.7915079,
+                    32.0615652
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/244081381",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-07-31T06:35:17.725Z"
+        }
+    ],
+    "target": {
+        "source": "https://tile.loc.gov/image-services/iiif/service:asian:lcnclscd:2012402594:1A000:00001a",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1332.035888671875,321.3616943359375,297.396484375,1827.8199462890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/perface1.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "69aa61be-7d0f-4ec6-b646-77fc9f3d301b.json",
+    "motivation": "commenting"
+}

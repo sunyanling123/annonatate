@@ -1,0 +1,35 @@
+---
+canvas: "http://ae8dda3c-fcf1-4fe7-a800-9fb789a808be"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u9ebb\u9ec4",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-08-06T03:33:30.724Z",
+            "modified": "2022-08-06T03:33:37.638Z"
+        }
+    ],
+    "target": {
+        "source": "http://ae8dda3c-fcf1-4fe7-a800-9fb789a808be",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1055.7545166015625,876.6446533203125,178.5943603515625,274.08056640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://sunyanling123.github.io/ben-cao-gang-mu/manifests/test.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8cde72b0-583a-45e8-9b37-1dab2aac8620.json",
+    "motivation": "commenting"
+}

@@ -1,0 +1,46 @@
+---
+canvas: "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "soldier",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-09-27T02:50:47.024Z",
+            "modified": "2022-09-27T02:51:16.301Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "person",
+            "purpose": "tagging",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-09-27T02:51:27.753Z",
+            "modified": "2022-09-27T02:51:29.736Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=82628.8125,221.59255981445312,407.1796875,478.8132019042969"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1ec0ea94-6817-471e-be13-86fd4e3f868a.json",
+    "motivation": "commenting"
+}

@@ -1,0 +1,120 @@
+---
+canvas: "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u8239\u957f",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-09-27T02:40:29.401Z",
+            "modified": "2022-09-27T02:41:06.510Z"
+        },
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            114.1098795,
+                            22.2976036
+                        ],
+                        [
+                            114.1101095,
+                            22.2730301
+                        ],
+                        [
+                            114.1102394,
+                            22.2611984
+                        ],
+                        [
+                            114.1999802,
+                            22.1926504
+                        ],
+                        [
+                            114.3090495,
+                            22.1928094
+                        ],
+                        [
+                            114.2615798,
+                            22.2457285
+                        ],
+                        [
+                            114.2615958,
+                            22.2729937
+                        ],
+                        [
+                            114.2442534,
+                            22.2822804
+                        ],
+                        [
+                            114.2193766,
+                            22.295702
+                        ],
+                        [
+                            114.2108631,
+                            22.3002834
+                        ],
+                        [
+                            114.1995378,
+                            22.3002591
+                        ],
+                        [
+                            114.1868613,
+                            22.2941115
+                        ],
+                        [
+                            114.1863289,
+                            22.2938684
+                        ],
+                        [
+                            114.1743,
+                            22.2880501
+                        ],
+                        [
+                            114.1674366,
+                            22.2906617
+                        ],
+                        [
+                            114.1495117,
+                            22.2974808
+                        ],
+                        [
+                            114.1098795,
+                            22.2976036
+                        ]
+                    ]
+                ]
+            },
+            "source": "https://www.openstreetmap.org/relation/10264792",
+            "creator": {
+                "id": "sunyanling123",
+                "name": "sunyanling123"
+            },
+            "created": "2022-09-27T02:41:42.889Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=63743.88671875,318.04693603515625,188.41796875,259.67852783203125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "53fdae6a-a729-4057-9787-830fbd58ea90.json",
+    "motivation": "commenting"
+}
